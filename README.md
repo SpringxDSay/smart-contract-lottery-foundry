@@ -15,7 +15,7 @@ https://book.getfoundry.sh/
 ## SetUp
 
 ```
-git clone https://github.com/SpringxDSay/Smart-Lottery-Contract
+git clone https://github.com/SpringxDSay/smart-contract-lottery-foundry
 ```
 
 ### Build
